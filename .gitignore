@@ -1,3 +1,3 @@
-webmail_domains/
+webmail_domains.egg-info/
 build/
 dist/

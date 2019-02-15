@@ -6,7 +6,7 @@ with open('README.md') as file:
 
 setup(
     name="webmail-domains",
-    version="0.12",
+    version="0.13",
     py_modules="webmail_domains",
     url='https://github.com/zevaverbach/Webmail-Domains',
     include_package_data=True,

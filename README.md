@@ -17,3 +17,8 @@ Feel free to make pull requests, and I'll add them in.
 
     if <some_email>.split('@')[1] in webmail_domains.WEBMAIL_DOMAINS:
         # do something (reject signup, don't add the domain to a CRM, etc.)
+
+
+# Updates
+
+The list was last updated on [August 17, 2017](https://github.com/mbirtwell/Webmail-Domains/commit/d96c2acea95afec09a4447376242716ac8601f7f).

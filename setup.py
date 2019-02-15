@@ -11,7 +11,7 @@ setup(
     url='https://github.com/zevaverbach/Webmail-Domains',
     include_package_data=True,
     packages=find_packages(),
-    description=('A list of webmail domains.'),
+    description=('A pretty thorough list of webmail domains!'),
     long_description_content_type='text/markdown',
     long_description=long_description,
         )

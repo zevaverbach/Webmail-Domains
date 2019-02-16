@@ -1,3 +1,4 @@
 webmail_domains.egg-info/
 build/
 dist/
+Pipfile*

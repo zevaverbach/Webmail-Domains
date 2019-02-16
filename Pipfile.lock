@@ -1,0 +1,25 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "b7da694bef642d5ef58ade71b1ede2d4e21ded56605bb9c0f7a0184a33e195c6"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.7"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "webmail-domains": {
+            "editable": true,
+            "path": "."
+        }
+    },
+    "develop": {}
+}

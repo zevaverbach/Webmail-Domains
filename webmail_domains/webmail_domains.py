@@ -3836,6 +3836,7 @@ WEBMAIL_DOMAINS = [
     'yalook.com',
     'yam.com',
     'yandex.ru',
+    'yandex.com',
     'yapost.com',
     'yawmail.com',
     'yclub.com',
